@@ -1,0 +1,31 @@
+Curso Superior:
+
+Enfermagem
+Engenharia Eletrica
+Direito
+Economia
+Psicologia
+
+Curso Técnico:
+
+Segurança do Trabalho
+Informática
+Administração
+Edificaçoes
+Saúde Bucal
+
+Profissionalizantes:
+
+Auxiliar Administrativo
+Gestão de Pessoas
+Auxiliar de Escritorio
+Estoquista
+Programação Web
+
+EAD
+
+Desenvolvimento de Jogos
+Marketing Pessoal
+Marketing Digital
+Photoshop
+AutoCAD
